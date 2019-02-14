@@ -1,0 +1,17 @@
+{
+    "name": "codeinwp/blocks-css",
+    "description": "CSS Editor for Gutenberg Blocks.",
+    "type": "wordpress-plugin",
+    "require": {
+        "codeinwp/gutenberg-css": "dev-master",
+        "codeinwp/themeisle-sdk": "dev-master"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "ThemeIsle Team",
+            "email": "friends@themeisle.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
