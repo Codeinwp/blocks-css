@@ -20,3 +20,9 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 
 1. CSS Editor
 2. CSS Editor
+
+= 1.0.1 =
+* Fix issue with Blocks CSS not working with Reuseable Block.
+ 
+= 1.0.0 =
+* Initial release
