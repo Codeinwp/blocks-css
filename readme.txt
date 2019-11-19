@@ -1,5 +1,5 @@
 === Blocks CSS: CSS Editor for Gutenberg Blocks ===
-Contributors: themeisle, hardeepasrani
+Contributors: themeisle, hardeepasrani, BrianHenryIE
 Tags: gutenberg, block, css, css editor, blocks css
 Requires at least: 4.9    
 Tested up to: 5.0  
