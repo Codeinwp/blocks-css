@@ -48,3 +48,26 @@ add_filter(
 		return $products;
 	}
 );
+
+/**
+ * Adds the `hasCustomCSS` and `customCSS` attributes to all blocks.
+ *
+ * @hooked wp_loaded,100    This might not be late enough for all blocks, I don't know when blocks are supposed to be registered.
+ */
+add_action( 'wp_loaded', function() {
+
+	$registered_blocks = WP_Block_Type_Registry::get_instance()->get_all_registered();
+
+	foreach( $registered_blocks as $name => $block ) {
+
+		$block->attributes['hasCustomCSS'] = array(
+			'type'    => 'boolean',
+			'default' => false,
+		);
+		$block->attributes['customCSS']    = array(
+			'type'    => 'string',
+			'default' => '',
+		);
+	}
+
+}, 100);
