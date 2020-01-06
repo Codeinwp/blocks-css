@@ -32,7 +32,7 @@ jobs:
           GIT_COMMITTER_NAME: themeisle[bot]
           GIT_COMMITTER_EMAIL: ${{ secrets.BOT_EMAIL }}
       - name: Deploy to wordpress.org
-        if: steps.release.outputs.released_version=yes
+        if: steps.release.outputs.released_version == yes
         uses: 10up/action-wordpress-plugin-deploy@master
         env:
           SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
