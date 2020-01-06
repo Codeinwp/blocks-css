@@ -11,3 +11,5 @@ composer.lock
 node_modules
 .wordpress-org
 .github
+.releaserc.yml
+.gitattributes
