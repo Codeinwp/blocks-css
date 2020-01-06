@@ -1,5 +1,12 @@
 <?php
 /**
+ * Loader for the ThemeIsle\GutenbergCSS
+ *
+ * @package     ThemeIsle\GutenbergCSS
+ * @copyright   Copyright (c) 2019, Hardeep Asrani
+ * @license     http://opensource.org/licenses/gpl-3.0.php GNU Public License
+ * @since       1.0.0
+ *
  * Plugin Name:       Blocks CSS: CSS Editor for Gutenberg Blocks
  * Plugin URI:        https://github.com/Codeinwp/blocks-css
  * Description:       Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.
@@ -31,7 +38,7 @@ if ( is_readable( $vendor_file ) ) {
 add_action(
 	'plugins_loaded',
 	function () {
-		// call this only if Gutenberg is active
+		// call this only if Gutenberg is active.
 		if ( function_exists( 'register_block_type' ) ) {
 			if ( class_exists( '\ThemeIsle\GutenbergCSS' ) ) {
 				\ThemeIsle\GutenbergCSS::instance();

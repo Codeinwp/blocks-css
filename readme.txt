@@ -2,7 +2,7 @@
 Contributors: themeisle, hardeepasrani
 Tags: gutenberg, block, css, css editor, blocks css
 Requires at least: 4.9    
-Tested up to: 5.0  
+Tested up to: 5.3
 Requires PHP: 5.4  
 Stable tag: trunk
 License: GPLv3  
@@ -20,6 +20,8 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 
 1. CSS Editor
 2. CSS Editor
+
+== Changelog ==
 
 = 1.0.2 =
 * Add compatibility for WordPress 5.3
