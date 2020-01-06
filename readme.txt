@@ -27,6 +27,7 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 
 * Add compatibility for WordPress 5.3
 
+
 = 1.0.1 =
 
 * Fix issue with Blocks CSS not working with Reusable Block.
