@@ -20,6 +20,9 @@ plugins:
         - composer.json
         - composer.lock
         - package-lock.json
+        - package-lock.json
+        - readme.txt
+        - readme.md
         - package.json
   - - "@semantic-release/github"
 
