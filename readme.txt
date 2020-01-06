@@ -24,10 +24,13 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 == Changelog ==
 
 = 1.0.2 =
+
 * Add compatibility for WordPress 5.3
 
 = 1.0.1 =
+
 * Fix issue with Blocks CSS not working with Reusable Block.
 
 = 1.0.0 =
+
 * Initial release
