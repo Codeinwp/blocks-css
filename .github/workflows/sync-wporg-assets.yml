@@ -8,6 +8,9 @@ on:
     paths:
       - 'readme.txt'
       - '.wordpress-org/**'
+    paths-ignore:
+      - '!readme.txt'
+      - '!.wordpress-org/**'
 jobs:
   run:
     runs-on: ubuntu-latest
