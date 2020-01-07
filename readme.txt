@@ -14,6 +14,7 @@ Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the 
 
 Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the Editor.
 
+
 It adds a syntax-highlighted CSS Editor where you can add additional CSS to your Gutenberg Blocks to style them the way you want.
 
 == Screenshots ==
