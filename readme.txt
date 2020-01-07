@@ -21,7 +21,12 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 1. CSS Editor
 2. CSS Editor
 
-== Changelog ==
+== Changelog ==\n\n### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
+
+Update dependencies
+
+
+
 
 = 1.0.2 =
 
