@@ -20,6 +20,7 @@ plugins:
         - package-lock.json
         - package-lock.json
         - readme.txt
+        - blocks-css.php
         - readme.md
         - package.json
   - - "@semantic-release/github"
