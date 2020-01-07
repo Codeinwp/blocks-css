@@ -24,9 +24,9 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 
 == Changelog ==
 
-### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
+#### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
 
-Update dependencies
+* Update dependencies
 
 = 1.0.2 =
 
