@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "codeinwp/gutenberg-css",
-            "version": "1.0.6",
+            "version": "1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/gutenberg-css.git",
-                "reference": "cebf049e88b641a5cf6ce393e8d81fe10fcc96b3"
+                "reference": "0ee40a9feee4d0bb2a384a33c417e936da582c33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/cebf049e88b641a5cf6ce393e8d81fe10fcc96b3",
-                "reference": "cebf049e88b641a5cf6ce393e8d81fe10fcc96b3",
+                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/0ee40a9feee4d0bb2a384a33c417e936da582c33",
+                "reference": "0ee40a9feee4d0bb2a384a33c417e936da582c33",
                 "shasum": ""
             },
             "require-dev": {
@@ -46,7 +46,7 @@
             ],
             "description": "CSS Editor for Gutenberg Blocks",
             "homepage": "https://github.com/Codeinwp/gutenberg-css",
-            "time": "2020-01-06T14:29:28+00:00"
+            "time": "2020-01-07T21:14:19+00:00"
         },
         {
             "name": "codeinwp/themeisle-sdk",
