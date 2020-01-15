@@ -14,6 +14,7 @@ Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the 
 
 Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the Editor.
 
+
 It adds a syntax-highlighted CSS Editor where you can add additional CSS to your Gutenberg Blocks to style them the way you want.
 
 ## Screenshots ##
@@ -21,12 +22,19 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 1. CSS Editor
 2. CSS Editor
 
-== Changelog ==\n\n### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
+## Changelog ##
 
-Update dependencies
+##### [Version 1.0.4](https://github.com/Codeinwp/blocks-css/compare/v1.0.3...v1.0.4) (2020-01-15)
+
+- Fix issue with CSS not saving
+- Bump semantic-release from 16.0.0 to 16.0.1
 
 
 
+
+##### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
+
+* Update dependencies
 
 ### 1.0.2 ###
 
