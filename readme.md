@@ -2,7 +2,7 @@
 **Contributors:** [themeisle](https://profiles.wordpress.org/themeisle), [hardeepasrani](https://profiles.wordpress.org/hardeepasrani)  
 **Tags:** gutenberg, block, css, css editor, blocks css
 **Requires at least:** 5.2      
-**Tested up to:** 5.0    
+**Tested up to:** 5.3  
 **Requires PHP:** 5.4    
 **Stable tag:** trunk  
 **License:** GPLv3    
@@ -14,6 +14,7 @@ Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the 
 
 Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the Editor.
 
+
 It adds a syntax-highlighted CSS Editor where you can add additional CSS to your Gutenberg Blocks to style them the way you want.
 
 ## Screenshots ##
@@ -22,11 +23,27 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 2. CSS Editor
 
 ## Changelog ##
-### 1.0.2  ###
+
+##### [Version 1.0.4](https://github.com/Codeinwp/blocks-css/compare/v1.0.3...v1.0.4) (2020-01-15)
+
+- Fix issue with CSS not saving
+- Bump semantic-release from 16.0.0 to 16.0.1
+
+
+
+
+##### [Version 1.0.3](https://github.com/Codeinwp/blocks-css/compare/v1.0.2...v1.0.3) (2020-01-07)
+
+* Update dependencies
+
+### 1.0.2 ###
+
 * Add compatibility for WordPress 5.3
 
-### 1.0.1  ###
+### 1.0.1 ###
+
 * Fix issue with Blocks CSS not working with Reusable Block.
 
-### 1.0.0  ###
+### 1.0.0 ###
+
 * Initial release
