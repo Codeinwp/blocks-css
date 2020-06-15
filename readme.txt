@@ -8,12 +8,11 @@ Stable tag: trunk
 License: GPLv3  
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html  
 
-Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the Editor.
+Blocks CSS allows you add custom CSS to your Blocks straight from the Block Editor (Gutenberg).
 
 == Description ==
 
-Blocks CSS allows you add custom CSS to your Gutenberg Blocks straight from the Editor.
-
+Blocks CSS allows you add custom CSS to your Blocks straight from the Block Editor (Gutenberg).
 
 It adds a syntax-highlighted CSS Editor where you can add additional CSS to your Gutenberg Blocks to style them the way you want.
 
