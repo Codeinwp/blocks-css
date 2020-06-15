@@ -1,3 +1,7 @@
+##### [Version 1.0.5](https://github.com/Codeinwp/blocks-css/compare/v1.0.4...v1.0.5) (2020-05-25)
+
+- Fix CSS Editor for users with disable SyntaxHighlighter
+
 ##### [Version 1.0.4](https://github.com/Codeinwp/blocks-css/compare/v1.0.3...v1.0.4) (2020-01-15)
 
 - Fix issue with CSS not saving
