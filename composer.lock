@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "codeinwp/gutenberg-css",
-            "version": "1.0.9",
+            "version": "1.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/gutenberg-css.git",
-                "reference": "4d891b7969d903439b7f48f3ce088029c0c7dbd5"
+                "reference": "b7162f5b828bfc9223f862e392abbca0805580a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/4d891b7969d903439b7f48f3ce088029c0c7dbd5",
-                "reference": "4d891b7969d903439b7f48f3ce088029c0c7dbd5",
+                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/b7162f5b828bfc9223f862e392abbca0805580a4",
+                "reference": "b7162f5b828bfc9223f862e392abbca0805580a4",
                 "shasum": ""
             },
             "require-dev": {
@@ -49,20 +49,20 @@
             ],
             "description": "CSS Editor for Gutenberg Blocks",
             "homepage": "https://github.com/Codeinwp/gutenberg-css",
-            "time": "2020-05-25T14:37:28+00:00"
+            "time": "2020-06-14T00:07:37+00:00"
         },
         {
             "name": "codeinwp/themeisle-sdk",
-            "version": "3.2.9",
+            "version": "3.2.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/themeisle-sdk.git",
-                "reference": "5923b377554028b3e2c2e98a5f752b9bcd23d4da"
+                "reference": "992f5e8347836e325ffc50760da1d550b79831c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/5923b377554028b3e2c2e98a5f752b9bcd23d4da",
-                "reference": "5923b377554028b3e2c2e98a5f752b9bcd23d4da",
+                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/992f5e8347836e325ffc50760da1d550b79831c4",
+                "reference": "992f5e8347836e325ffc50760da1d550b79831c4",
                 "shasum": ""
             },
             "require-dev": {
@@ -87,7 +87,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2020-05-18T16:59:05+00:00"
+            "time": "2020-06-10T16:25:09+00:00"
         }
     ],
     "packages-dev": [
