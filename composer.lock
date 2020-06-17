@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "232a7ce2812953bde4f26136207dfab3",
+    "content-hash": "d1fc3a382b9f0240688f46f4cc9b021c",
     "packages": [
         {
             "name": "codeinwp/gutenberg-css",
-            "version": "1.0.10",
+            "version": "1.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/gutenberg-css.git",
-                "reference": "b7162f5b828bfc9223f862e392abbca0805580a4"
+                "reference": "e777778305b4a5e1572df55d5f70ecfe8bddf89a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/b7162f5b828bfc9223f862e392abbca0805580a4",
-                "reference": "b7162f5b828bfc9223f862e392abbca0805580a4",
+                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/e777778305b4a5e1572df55d5f70ecfe8bddf89a",
+                "reference": "e777778305b4a5e1572df55d5f70ecfe8bddf89a",
                 "shasum": ""
             },
             "require-dev": {
@@ -49,7 +49,7 @@
             ],
             "description": "CSS Editor for Gutenberg Blocks",
             "homepage": "https://github.com/Codeinwp/gutenberg-css",
-            "time": "2020-06-14T00:07:37+00:00"
+            "time": "2020-06-17T19:09:12+00:00"
         },
         {
             "name": "codeinwp/themeisle-sdk",
