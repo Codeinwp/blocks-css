@@ -2,7 +2,7 @@
 Contributors: themeisle, hardeepasrani
 Tags: gutenberg, block, css, css editor, blocks css
 Requires at least: 5.2    
-Tested up to: 5.3
+Tested up to: 5.6
 Requires PHP: 5.4  
 Stable tag: trunk
 License: GPLv3  
