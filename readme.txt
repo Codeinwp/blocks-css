@@ -1,9 +1,9 @@
 === Blocks CSS: CSS Editor for Gutenberg Blocks ===
-Contributors: themeisle, hardeepasrani, soarerobertdaniel7
+Contributors: themeisle, hardeepasrani
 Tags: gutenberg, block, css, css editor, blocks css
 Requires at least: 5.2    
 Tested up to: 5.6
-Requires PHP: 5.3  
+Requires PHP: 5.4  
 Stable tag: trunk
 License: GPLv3  
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html  
@@ -22,6 +22,13 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 2. CSS Editor
 
 == Changelog ==
+
+##### [Version 1.0.7](https://github.com/Codeinwp/blocks-css/compare/v1.0.6...v1.0.7) (2020-06-17)
+
+- Fix pseudo-class selector being removed.
+
+
+
 
 ##### [Version 1.0.6](https://github.com/Codeinwp/blocks-css/compare/v1.0.5...v1.0.6) (2020-06-15)
 
