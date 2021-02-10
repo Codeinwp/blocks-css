@@ -1,3 +1,7 @@
+##### [Version 1.0.7](https://github.com/Codeinwp/blocks-css/compare/v1.0.6...v1.0.7) (2020-06-17)
+
+- Fix pseudo-class selector being removed.
+
 ##### [Version 1.0.6](https://github.com/Codeinwp/blocks-css/compare/v1.0.5...v1.0.6) (2020-06-15)
 
 - Fix issue with CSS not working with Dynamic blocks.
