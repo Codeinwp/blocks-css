@@ -8,21 +8,21 @@
     "packages": [
         {
             "name": "codeinwp/gutenberg-css",
-            "version": "1.0.11",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/gutenberg-css.git",
-                "reference": "e777778305b4a5e1572df55d5f70ecfe8bddf89a"
+                "reference": "1f67e8657b29a6d106541e43dd88508680cd7c37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/e777778305b4a5e1572df55d5f70ecfe8bddf89a",
-                "reference": "e777778305b4a5e1572df55d5f70ecfe8bddf89a",
+                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/1f67e8657b29a6d106541e43dd88508680cd7c37",
+                "reference": "1f67e8657b29a6d106541e43dd88508680cd7c37",
                 "shasum": ""
             },
             "require-dev": {
                 "automattic/vipwpcs": "^0.3.0 || ^1.0.0",
-                "dealerdirect/phpcodesniffer-composer-installer": "0.6.2",
+                "dealerdirect/phpcodesniffer-composer-installer": "0.7.1",
                 "phpcompatibility/php-compatibility": "^9",
                 "squizlabs/php_codesniffer": "^3.3",
                 "wp-coding-standards/wpcs": "^1"
@@ -49,26 +49,28 @@
             ],
             "description": "CSS Editor for Gutenberg Blocks",
             "homepage": "https://github.com/Codeinwp/gutenberg-css",
-            "time": "2020-06-17T19:09:12+00:00"
+            "time": "2021-02-09T23:41:09+00:00"
         },
         {
             "name": "codeinwp/themeisle-sdk",
-            "version": "3.2.14",
+            "version": "3.2.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/themeisle-sdk.git",
-                "reference": "992f5e8347836e325ffc50760da1d550b79831c4"
+                "reference": "b116dffbe39ea9e37169fdd683bab54c545fe560"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/992f5e8347836e325ffc50760da1d550b79831c4",
-                "reference": "992f5e8347836e325ffc50760da1d550b79831c4",
+                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/b116dffbe39ea9e37169fdd683bab54c545fe560",
+                "reference": "b116dffbe39ea9e37169fdd683bab54c545fe560",
                 "shasum": ""
             },
             "require-dev": {
-                "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
-                "squizlabs/php_codesniffer": "^3.1",
-                "wp-coding-standards/wpcs": "^1.0.0"
+                "automattic/vipwpcs": "^1.0.0",
+                "dealerdirect/phpcodesniffer-composer-installer": "0.7.0",
+                "phpcompatibility/php-compatibility": "^9",
+                "squizlabs/php_codesniffer": "^3.3",
+                "wp-coding-standards/wpcs": "^1"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -82,12 +84,12 @@
                     "homepage": "https://themeisle.com"
                 }
             ],
-            "description": "ThemeIsle SDK.",
+            "description": "ThemeIsle SDK",
             "homepage": "https://github.com/Codeinwp/themeisle-sdk",
             "keywords": [
                 "wordpress"
             ],
-            "time": "2020-06-10T16:25:09+00:00"
+            "time": "2020-11-17T08:35:16+00:00"
         }
     ],
     "packages-dev": [
@@ -263,16 +265,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.5.5",
+            "version": "3.5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "73e2e7f57d958e7228fce50dc0c61f58f017f9f6"
+                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/73e2e7f57d958e7228fce50dc0c61f58f017f9f6",
-                "reference": "73e2e7f57d958e7228fce50dc0c61f58f017f9f6",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/9d583721a7157ee997f235f327de038e7ea6dac4",
+                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4",
                 "shasum": ""
             },
             "require": {
@@ -310,7 +312,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2020-04-17T01:09:41+00:00"
+            "time": "2020-10-23T02:01:07+00:00"
         },
         {
             "name": "wp-coding-standards/wpcs",
