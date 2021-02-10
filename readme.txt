@@ -1,9 +1,9 @@
 === Blocks CSS: CSS Editor for Gutenberg Blocks ===
-Contributors: themeisle, hardeepasrani
+Contributors: themeisle, hardeepasrani, soarerobertdaniel7
 Tags: gutenberg, block, css, css editor, blocks css
 Requires at least: 5.2    
-Tested up to: 5.3
-Requires PHP: 5.6  
+Tested up to: 5.6
+Requires PHP: 5.3  
 Stable tag: trunk
 License: GPLv3  
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html  
