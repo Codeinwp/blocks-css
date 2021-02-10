@@ -1,6 +1,6 @@
 {
     "name": "codeinwp/blocks-css",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "CSS Editor for Gutenberg Blocks.",
     "type": "wordpress-plugin",
     "require": {

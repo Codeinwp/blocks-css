@@ -2,7 +2,7 @@
 **Contributors:** [themeisle](https://profiles.wordpress.org/themeisle), [hardeepasrani](https://profiles.wordpress.org/hardeepasrani)  
 **Tags:** gutenberg, block, css, css editor, blocks css  
 **Requires at least:** 5.2      
-**Tested up to:** 5.3  
+**Tested up to:** 5.6  
 **Requires PHP:** 5.4    
 **Stable tag:** trunk  
 **License:** GPLv3    
@@ -22,6 +22,15 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 2. CSS Editor
 
 ## Changelog ##
+
+##### [Version 1.1.1](https://github.com/Codeinwp/blocks-css/compare/v1.1.0...v1.1.1) (2021-02-10)
+
+- Fix extra class being removed.
+- Refactor inject-css.js file.
+- Don't render CSS if empty.
+
+
+
 
 #### [Version 1.1.0](https://github.com/Codeinwp/blocks-css/compare/v1.0.7...v1.1.0) (2021-02-10)
 
