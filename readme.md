@@ -23,6 +23,15 @@ It adds a syntax-highlighted CSS Editor where you can add additional CSS to your
 
 ## Changelog ##
 
+#### [Version 1.1.0](https://github.com/Codeinwp/blocks-css/compare/v1.0.7...v1.1.0) (2021-02-10)
+
+- Fix extra class being removed.
+- Refactor inject-css.js file.
+- Don't render CSS if empty.
+
+
+
+
 ##### [Version 1.0.7](https://github.com/Codeinwp/blocks-css/compare/v1.0.6...v1.0.7) (2020-06-17)
 
 - Fix pseudo-class selector being removed.
