@@ -1,3 +1,7 @@
+##### [Version 1.1.2](https://github.com/Codeinwp/blocks-css/compare/v1.1.1...v1.1.2) (2021-07-03)
+
+- Getting ready for WordPress 5.8
+
 ##### [Version 1.1.1](https://github.com/Codeinwp/blocks-css/compare/v1.1.0...v1.1.1) (2021-02-10)
 
 - Fix extra class being removed.
