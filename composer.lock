@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d77f0f6da8f445aafac6ac8ff4562ad3",
+    "content-hash": "021f27145c1ea20433fc5164061b030a",
     "packages": [
         {
             "name": "codeinwp/gutenberg-css",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/gutenberg-css.git",
-                "reference": "1f67e8657b29a6d106541e43dd88508680cd7c37"
+                "reference": "ff3005e3cb149555378c6a319d7857086d2521fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/1f67e8657b29a6d106541e43dd88508680cd7c37",
-                "reference": "1f67e8657b29a6d106541e43dd88508680cd7c37",
+                "url": "https://api.github.com/repos/Codeinwp/gutenberg-css/zipball/ff3005e3cb149555378c6a319d7857086d2521fc",
+                "reference": "ff3005e3cb149555378c6a319d7857086d2521fc",
                 "shasum": ""
             },
             "require-dev": {
@@ -49,28 +49,28 @@
             ],
             "description": "CSS Editor for Gutenberg Blocks",
             "homepage": "https://github.com/Codeinwp/gutenberg-css",
-            "time": "2021-02-09T23:41:09+00:00"
+            "support": {
+                "issues": "https://github.com/Codeinwp/gutenberg-css/issues",
+                "source": "https://github.com/Codeinwp/gutenberg-css/tree/v1.1.3"
+            },
+            "time": "2021-07-02T20:14:58+00:00"
         },
         {
             "name": "codeinwp/themeisle-sdk",
-            "version": "3.2.16",
+            "version": "3.2.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeinwp/themeisle-sdk.git",
-                "reference": "b116dffbe39ea9e37169fdd683bab54c545fe560"
+                "reference": "cafd016b61ec0928c0234e312046782a77c14318"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/b116dffbe39ea9e37169fdd683bab54c545fe560",
-                "reference": "b116dffbe39ea9e37169fdd683bab54c545fe560",
+                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/cafd016b61ec0928c0234e312046782a77c14318",
+                "reference": "cafd016b61ec0928c0234e312046782a77c14318",
                 "shasum": ""
             },
             "require-dev": {
-                "automattic/vipwpcs": "^1.0.0",
-                "dealerdirect/phpcodesniffer-composer-installer": "0.7.0",
-                "phpcompatibility/php-compatibility": "^9",
-                "squizlabs/php_codesniffer": "^3.3",
-                "wp-coding-standards/wpcs": "^1"
+                "codeinwp/phpcs-ruleset": "dev-main"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -89,7 +89,11 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2020-11-17T08:35:16+00:00"
+            "support": {
+                "issues": "https://github.com/Codeinwp/themeisle-sdk/issues",
+                "source": "https://github.com/Codeinwp/themeisle-sdk/tree/v3.2.21"
+            },
+            "time": "2021-06-30T10:55:18+00:00"
         }
     ],
     "packages-dev": [
@@ -137,6 +141,11 @@
                 "standards",
                 "wordpress"
             ],
+            "support": {
+                "issues": "https://github.com/Automattic/VIP-Coding-Standards/issues",
+                "source": "https://github.com/Automattic/VIP-Coding-Standards",
+                "wiki": "https://github.com/Automattic/VIP-Coding-Standards/wiki"
+            },
             "time": "2019-04-24T21:34:09+00:00"
         },
         {
@@ -265,20 +274,24 @@
                 "phpcs",
                 "standards"
             ],
+            "support": {
+                "issues": "https://github.com/PHPCompatibility/PHPCompatibility/issues",
+                "source": "https://github.com/PHPCompatibility/PHPCompatibility"
+            },
             "time": "2019-12-27T09:44:58+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.5.8",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4"
+                "reference": "ffced0d2c8fa8e6cdc4d695a743271fab6c38625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/9d583721a7157ee997f235f327de038e7ea6dac4",
-                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/ffced0d2c8fa8e6cdc4d695a743271fab6c38625",
+                "reference": "ffced0d2c8fa8e6cdc4d695a743271fab6c38625",
                 "shasum": ""
             },
             "require": {
@@ -321,7 +334,7 @@
                 "source": "https://github.com/squizlabs/PHP_CodeSniffer",
                 "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki"
             },
-            "time": "2020-10-23T02:01:07+00:00"
+            "time": "2021-04-09T00:54:41+00:00"
         },
         {
             "name": "wp-coding-standards/wpcs",
@@ -364,6 +377,11 @@
                 "standards",
                 "wordpress"
             ],
+            "support": {
+                "issues": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/issues",
+                "source": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards",
+                "wiki": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki"
+            },
             "time": "2018-12-18T09:43:51+00:00"
         }
     ],
